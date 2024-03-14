@@ -2,7 +2,7 @@
 
 To get started:
 1. Create a Python 3.10 environment
-2. Install the follwing libraries: 
+2. Install the following libraries: 
 	pandas nltk transformers torch numpy
 
 pos_analysis.py - Used to tokenize and categorize parts of speech in the message of each tweet.
