@@ -1,3 +1,7 @@
+# Climate Change Discourse Analysis
+
+This project analyzed rhetorical and opinion-framing differences between climate change-affirming and climate change-denying tweets. Using a labeled corpus of tweets, it fine-tunes a DistilBERT classifier for stance detection and combines it with POS analysis and sentiment lexicon comparisons to quantify how each side frames its arguments. Results indicate measurable differences in inflammatory language usage across stances.
+
 # Setup
 
 To get started:
