@@ -14,3 +14,7 @@ pos_analysis.py - Used to tokenize and categorize parts of speech in the message
 pos_finetune.py - Used to fine-tune DistilBertForSequenceClassification.
 
 pos_sentiment_vocab - Used to compare the text of each tweet to the provided lexicons, and run the fine-tuned DistilBertForSequenceClassification model. Outputs ratios of tweets using opinion-framing devices. 
+
+# Data
+Dataset: [Twitter Climate Change Sentiment Dataset](https://www.kaggle.com/datasets/edqian/twitter-climate-change-sentiment-dataset)  
+Source: Kaggle (edqian)
